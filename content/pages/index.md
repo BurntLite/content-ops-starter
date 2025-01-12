@@ -7,7 +7,7 @@ sections:
       text: >-
         Somos BurntLite, una cuenta enfocada en capturar momentos de eventos
         automovilísticos 
-      color: text-primary
+      color: text-neutral
       type: TitleBlock
       styles:
         self:
