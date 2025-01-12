@@ -13,7 +13,7 @@ sections:
         self:
           fontStyle: italic
           fontWeight: 400
-    subtitle: Subtitle goes here
+    subtitle: ¿Qué buscamos?
     text: >
       Buscamos tener un medio más cómo y agradable para todos los que deseen
       descargar alguna imagen que les guste y deseen conservar 
