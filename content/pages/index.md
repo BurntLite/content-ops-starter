@@ -7,7 +7,7 @@ sections:
       text: >-
         Somos una cuenta enfocada en capturar momentos de eventos
         automovilísticos 
-      color: text-neutral
+      color: text-dark
       type: TitleBlock
       styles:
         self:
