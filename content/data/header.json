@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Iniciar Sesión",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
