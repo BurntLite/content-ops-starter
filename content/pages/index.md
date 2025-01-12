@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        Somos BurntLite, una cuenta enfocada en capturar momentos de eventos
+        Somos una cuenta enfocada en capturar momentos de eventos
         automovilísticos 
       color: text-neutral
       type: TitleBlock
