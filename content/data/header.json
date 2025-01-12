@@ -73,7 +73,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Iniciar Sesión",
+            "label": "Crear Cuenta",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
