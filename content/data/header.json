@@ -4,15 +4,17 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Instagram",
+            "url": "https://www.instagram.com/burnt.lite/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -47,22 +49,6 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
                 }
             ],
             "labelStyle": "secondary",
@@ -71,7 +57,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "Crear Cuenta",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
@@ -80,7 +66,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Iniciar Sesión",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
